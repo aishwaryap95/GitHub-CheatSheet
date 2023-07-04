@@ -1,0 +1,5 @@
+https://docs.github.com/en/get-started/quickstart/fork-a-repo
+
+- Fork creates completely independent copy of repository.
+- Git clone creates a linked copy that will continue to synchronize with target repo.
+- After performimg fork, we dont have local copy on our system, therefore clone it.
