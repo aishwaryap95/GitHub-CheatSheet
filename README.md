@@ -9,5 +9,5 @@ Happy coding and collaborating with GitHub!
 
 # Why should we use pull requests?
 - Anyone with read access to a repo, can create a pull request
-- If we want to create a new branch for pull request and do not have wrie permission to the repo,
+- If we want to create a new branch for pull request and do not have write permission to the repo,
   you can fork the repo first.
