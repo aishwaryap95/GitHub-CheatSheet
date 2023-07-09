@@ -11,3 +11,10 @@ Happy coding and collaborating with GitHub!
 - Anyone with read access to a repo, can create a pull request
 - If we want to create a new branch for pull request and do not have write permission to the repo,
   you can fork the repo first.
+
+# push
+git clone "repo_link"
+git add .
+git commit -m ""
+git remote add origin "repo_link"
+git push -u origin main
