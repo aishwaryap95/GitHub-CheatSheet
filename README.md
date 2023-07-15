@@ -18,3 +18,9 @@ git add .
 git commit -m ""
 git remote add origin "repo_link"
 git push -u origin main
+
+# Merge master branch into main
+git branch main
+git checkout main
+git pull origin master --allow-unrelated-histories
+git push --set-upstream origin main
