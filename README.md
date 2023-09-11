@@ -13,10 +13,13 @@ Happy coding and collaborating with GitHub!
   you can fork the repo first.
 
 # push
-git clone "repo_link"
+git init
 git add .
-git commit -m ""
-git remote add origin "repo_link"
+git commit -m "Initial commit"
+git remote add origin https://github.com/<your-github-username>/<your-repo-name>.git
+git push -u origin main
+
+
 git push -u origin main
 
 # Merge master branch into main
